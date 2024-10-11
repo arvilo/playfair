@@ -19,7 +19,7 @@ This project implements the PlayFair cipher for encoding text using a key. The p
 To clone this repository to your local machine, use the following command:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/arvilo/playfair.git
 ```
 To run app, use the following command:
 ```
